@@ -1,9 +1,7 @@
-
-// latest.json
 {
-  "version": "v0.0.1",
-  "notes": "Your Release Notes go here",
-  "pub_date": "2020-06-22T19:25:57Z",
+  "version": "2.0.0",
+  "notes": "Release notes",
+  "pub_date": "2026-04-25T12:00:00Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
